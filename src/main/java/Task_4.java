@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Seminar {
+public class Task_4 {
     public static void main(String[] args) throws IOException {
 
 //        String text = "Царьков Илья Михайлович 24 мужской";                     // чтобы в файле было побольше строк, несколько раз запускала программу, меняя текст
